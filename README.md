@@ -6,3 +6,4 @@ A singularity container for Machine Learning applications
 - [ ] Include R installation
 - [ ] Jupyter(lab) service
 - [ ] Different cuda versions
+- [ ] Requirements of apt-packages
